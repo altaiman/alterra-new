@@ -183,4 +183,8 @@
     <path d="M5.15138 15V3.32036L1.27293 7.11414L0 5.869L6 -9.53674e-07L12 5.869L10.7271 7.11414L6.84862 3.32036V15H5.15138Z"/>
   </symbol>
 
+  <symbol id="icons-menu" width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 0H0V2H18V0ZM18 4H0V6H18V4ZM0 8H18V10H0V8ZM18 12H0V14H18V12Z" fill="#F7F7F7"/>
+  </symbol>
+
 </svg>
