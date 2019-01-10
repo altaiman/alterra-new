@@ -256,6 +256,7 @@
 	}, 1);
 
 	$('[data-open]').on('click', function (e) {
+		e.preventDefault();
 
 		var m = $(this).data('open');
 		$('[data-modal=' + m + ']').iziModal('open');
